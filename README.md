@@ -20,4 +20,4 @@ In this challenge, i will enhance my JavaScript skills and knowledge. Each day,I
 
 
 ## Folder Structure
-1. [Day 1]()
+1. [Day 1](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day1.md)

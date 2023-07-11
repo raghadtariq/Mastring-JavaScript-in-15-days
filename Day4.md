@@ -38,8 +38,8 @@ For one-parameter functions, parentheses are optional, but for multiple paramete
 
 ```
 const person = {
-  name: ["Batool", "lara"],
-  age: 32,
+  name: ["Amy", "Hanry"],
+  age: 30,
   introduceSelf: function () {
     console.log(`Hi! I'm ${this.name[0]}.`);
   },

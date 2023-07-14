@@ -21,3 +21,10 @@ In this challenge, i will enhance my JavaScript skills and knowledge. Each day,I
 
 ## Folder Structure
 1. [Day 1](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day1.md)
+2. [Day 2](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day2.md)
+3. [Day 3](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day3.md)
+4. [Day 4](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day4.md)
+5. [Day 5](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day5.md)
+6. [Day 6](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day6.md)
+7. [Day 7](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day7.md)
+8. [Day 8](https://github.com/raghadtariq/Mastring-JavaScript-in-20-days/blob/main/Day8.md)

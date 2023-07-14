@@ -1,7 +1,8 @@
 # Day 5:
 
 ## Lesson summary:
-### ** Events & Handlers: **
+
+### **Events & Handlers:**
 -  `.addEventListener()` method lets us listen for events on a DOM element.
 -  `event.target` is the element the event fired on.
 
@@ -20,7 +21,9 @@ document.addEventListener("click", () => {
 3. **["mouseover"]**
 4. **["mouseout"]**
 
-### ** map & filter: **
+
+
+### **map & filter:**
 
 #### map : 
  Calls a function on each item in an array to create a new array
@@ -43,6 +46,8 @@ function checkAdult(age) {
   return age >= 18;
 }
 ```
+
+
 
 ### spread `...` :
 - another neat trick for iterating over arrays.
